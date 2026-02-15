@@ -1,0 +1,35 @@
+# === Compilados / temporários ===
+*.exe
+*.o
+*.obj
+*.out
+
+# === Python ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === Java ===
+*.class
+bin/
+target/
+
+# === Node/Web ===
+node_modules/
+dist/
+build/
+.env
+
+# === SO / lixo ===
+Thumbs.db
+.DS_Store
+
+# === VS Code ===
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+
+
+nota
+.vscode/nota
